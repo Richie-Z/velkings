@@ -1,3 +1,3 @@
 # Velkings
-A Travel Orderings
-v2 cooming soon (i need some break time:)). see v1 at branch 
+A Travel Orderings <br>
+v2 coming soon ( i need some break time:) ). see v1 at branch 
